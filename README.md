@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @msidibe1
+- 👋 Hi, I’m @msidibe2
 - 👀 I’m interested in Data and programming
 - 🌱 I’m currently listening to opportunities
 - 💞️ I’m looking to collaborate on Data or Programming scope
